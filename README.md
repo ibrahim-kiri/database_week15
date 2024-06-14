@@ -44,3 +44,18 @@ _Fact 2: Average Release Year_
 - **Learning:** The US, Japan, and India lead in the number of Netflix shows.
 
 ## Chart 1: Most Common Ratings
+![Count](https://github.com/ibrahim-kiri/database_week15/assets/100684112/ac1440f8-4c6c-404c-99c7-a51aaa1e18de)
+
+## Chart 2: Average Release Year
+![AVG](https://github.com/ibrahim-kiri/database_week15/assets/100684112/d55c0bfd-8093-41c2-9f47-72cbb83c5c1f)
+
+## Chart 3: Top Countries by No. of Shows
+![highest netflix](https://github.com/ibrahim-kiri/database_week15/assets/100684112/2314d23e-6e75-4f99-a3d1-0f709fef8e4e)
+
+## Summary
+1. Imported and analyzed the Netflix Shows dataset.
+2. Discovered key insights such as the most common rating and average release year.
+3. Answered questions about popular genres and countries with the most shows.
+4. Visualized findings using bar, line, and pie charts.
+
+
